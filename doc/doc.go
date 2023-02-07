@@ -8,8 +8,8 @@ import (
 	"google.golang.org/protobuf/compiler/protogen"
 	"google.golang.org/protobuf/types/pluginpb"
 
-	"github.com/homayoonalimohammadi/protoc-gen-doc/protoc-gen-doc/comment"
-	"github.com/homayoonalimohammadi/protoc-gen-doc/protoc-gen-doc/strings"
+	"github.com/homayoonalimohammadi/protoc-gen-doc/comment"
+	"github.com/homayoonalimohammadi/protoc-gen-doc/strings"
 )
 
 type Doc struct {
