@@ -7,7 +7,7 @@ import (
 	"github.com/spf13/cobra"
 	"google.golang.org/protobuf/compiler/protogen"
 
-	"github.com/homayoonalimohammadi/protoc-gen-doc/doc"
+	"github.com/HomayoonAlimohammadi/protoc-gen-doc/doc"
 )
 
 const version = "1.0.0"

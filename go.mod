@@ -1,4 +1,4 @@
-module github.com/homayoonalimohammadi/protoc-gen-doc
+module github.com/HomayoonAlimohammadi/protoc-gen-doc
 
 go 1.19
 
